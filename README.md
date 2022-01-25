@@ -52,8 +52,13 @@
 </a>
 
 <a href="https://github.com/" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
 </a>
+
+<a href="https://gitlab.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
+</a>
+
 
 <h3>Redes Sociais</h3>
 <a href="https://linkedin.com/in/jeremias221b" target="_blank">
