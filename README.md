@@ -65,14 +65,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 
-<a href="https://instagram.com/jeremias221b" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-
-<a href="https://twitter.com/jeremias221b" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-</a>
-
 <p align="center">
 <img src="https://badges.pufler.dev/visits/thejeremias/thejeremias?color=blue&style=for-the-badge&logo=appveyor"/>
 </p>
